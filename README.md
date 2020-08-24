@@ -1,3 +1,59 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">James B. Hartle</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-JimHartle1.jpg"><img src="220px-JimHartle1.jpg" srcset="220px-JimHartle1.jpg" alt="JimHartle1.jpg" width="220" height="293" data-file-width="360" data-file-height="480" /></a>
+<div>Jim Hartle at Harvard University.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">James Burkett Hartle</div>
+<br />20 August 1939<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;80)</span><br />
+<div class="birthplace"><a title="Baltimore" href="https://en.wikipedia.org/wiki/Baltimore">Baltimore</a>,&nbsp;<a title="Maryland" href="https://en.wikipedia.org/wiki/Maryland">Maryland</a>, U.S.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">American</td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td class="category">United States</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a title="California Institute of Technology" href="https://en.wikipedia.org/wiki/California_Institute_of_Technology">California Institute of Technology</a></td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td><a title="Consistent histories" href="https://en.wikipedia.org/wiki/Consistent_histories">Consistent histories</a></td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">General relativity</a><br /><a title="Astrophysics" href="https://en.wikipedia.org/wiki/Astrophysics">Astrophysics</a><br /><a title="Quantum mechanics" href="https://en.wikipedia.org/wiki/Quantum_mechanics">Quantum mechanics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="University of California, Santa Barbara" href="https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara">University of California, Santa Barbara</a><br /><a title="Santa Fe Institute" href="https://en.wikipedia.org/wiki/Santa_Fe_Institute">Santa Fe Institute</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p><strong>James Burkett Hartle</strong>&nbsp;(August 20, 1939) is an American&nbsp;<a title="Physicist" href="https://en.wikipedia.org/wiki/Physicist">physicist</a>. He has been a professor of physics at the&nbsp;<a title="University of California, Santa Barbara" href="https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara">University of California, Santa Barbara</a>&nbsp;since 1966, and he is currently a member of the external faculty of the&nbsp;<a title="Santa Fe Institute" href="https://en.wikipedia.org/wiki/Santa_Fe_Institute">Santa Fe Institute</a>. Hartle is known for his work in&nbsp;<a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">general relativity</a>,&nbsp;<a title="Astrophysics" href="https://en.wikipedia.org/wiki/Astrophysics">astrophysics</a>, and&nbsp;<a class="mw-redirect" title="Interpretation of quantum mechanics" href="https://en.wikipedia.org/wiki/Interpretation_of_quantum_mechanics">interpretation of quantum mechanics</a>.</p>
+
+</br>
+
+
 <h2> Publications</h2>
 
 
