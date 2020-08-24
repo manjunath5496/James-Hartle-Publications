@@ -149,4 +149,48 @@ and Multiple Quasiclassical Realms</a></li>
 in the Quantum Mechanics of Closed Systems</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(75).pdf" style="text-decoration:none;">QUANTUM MECHANICS AT THE PLANCK SCALE</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(76).pdf" style="text-decoration:none;">MATTERS OF GRAVITY </a></li>
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(77).pdf" style="text-decoration:none;">Time and Time Functions
+in Parametrized Non-Relativistic Quantum Mechanics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(78).pdf" style="text-decoration:none;">Strong Decoherence </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(79).pdf" style="text-decoration:none;">Scientific Knowledge from the
+Perspective of Quantum Cosmology</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(80).pdf" style="text-decoration:none;">Nearly Instantaneous Alternatives in Quantum Mechanics</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(81).pdf" style="text-decoration:none;">Solutions of the Regge Equations on some Triangulations of CP<sup>2</sup></a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(82).pdf" style="text-decoration:none;">Signature of the Simplicial Supermetric</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(83).pdf" style="text-decoration:none;">Quantum Cosmology:
+Problems for the 21st Century</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(84).pdf" style="text-decoration:none;">Sources of Predictability</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(85).pdf" style="text-decoration:none;">Comparing Formulations of Generalized Quantum Mechanics for Reparametrization-Invariant Systems</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(86).pdf" style="text-decoration:none;">Generalized Quantum Theory in
+Evaporating Black Hole Spacetimes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(87).pdf" style="text-decoration:none;">Comment on "Consistent Sets Yield Contrary Inferences in Quantum Theory"</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(88).pdf" style="text-decoration:none;">Quantum Pasts and the Utility of History </a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(89).pdf" style="text-decoration:none;">Entropy of Classical Histories </a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(90).pdf" style="text-decoration:none;">GENERALIZED QUANTUM THEORY AND BLACK HOLE EVAPORATION</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/James-Hartle-Publications/blob/master/jah(91).pdf" style="text-decoration:none;">Classical Dynamics of the
+Quantum Harmonic Chain </a></li>                        
+
+
+
+
+
+
+
+
+
 </ul>
